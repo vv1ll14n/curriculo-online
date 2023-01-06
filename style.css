@@ -1,8 +1,9 @@
-*{
+
+/**{
     margin: 0;
     padding: 0;
     font-size: 1em;
-}
+}*/
 
 header a{
     color: white;
@@ -10,4 +11,10 @@ header a{
 header a:hover{
     color: grey;
     text-decoration: none;
+}
+p{
+    text-align: justify;
+}
+ul{
+    list-style: circle;
 }
