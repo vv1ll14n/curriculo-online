@@ -18,7 +18,9 @@ p{
 ul{
     list-style: circle;
 }
-
+.cor-de-fundo{
+    background-color: rgba(0, 0, 0, 0.959);
+}
 
 /**estilizando o bootstrap*
 nav.navbar-transparente {
