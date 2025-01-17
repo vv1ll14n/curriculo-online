@@ -47,6 +47,14 @@ ul{
     background-color: rgba(0, 0, 0, 0.959);
 }
 
+.link-git{
+    color: black;
+    
+}
+.link-git:hover{
+    text-decoration: none;
+}
+
 /**estilizando o bootstrap*
 nav.navbar-transparente {
     padding: 15px 0px;
